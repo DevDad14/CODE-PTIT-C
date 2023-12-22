@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 void sort(int n , int a[]){
     for(int i = 0 ; i < n - 1; i++){
         for(int j = i + 1 ; i < n ; i++){
@@ -9,3 +10,8 @@ void sort(int n , int a[]){
         }
     }
 }
+=======
+ // if(n > 2){
+        //     max = n;
+        // }
+>>>>>>> 676aa6e (Add files via upload)
