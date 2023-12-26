@@ -1,9 +1,14 @@
 #include<stdio.h>
+<<<<<<< HEAD
 #include<string.h>
+=======
+
+>>>>>>> 4e93da1 (sex)
 int main(){
     char c[100000];
     scanf("%s",&c);
     int lenght = strlen(c);
+<<<<<<< HEAD
     int temp = c[0];
     c[0] = c[lenght - 1];
     c[lenght - 1] = temp;
@@ -23,4 +28,6 @@ int main(){
             printf("%c",c[i]);
         }
     }
+=======
+>>>>>>> 4e93da1 (sex)
 }
